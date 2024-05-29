@@ -7,3 +7,5 @@ add from clone: create a conflict
 
 》》》》》》》》》》》》》》》》》》》》》》》
 add from issu1: hello, this is branch issu1
+
+add from issu2: issu2
