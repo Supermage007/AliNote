@@ -2,3 +2,4 @@ hello this simple
 
 add from clone: hello this is clone
 
+add from clone: create a conflict
