@@ -2,4 +2,3 @@ hello this simple
 
 add from clone: hello this is clone
 
-add from master: creat a conflict
